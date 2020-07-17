@@ -29,7 +29,7 @@
         "imagem": "images/soda.png",
         "preco": "6.00",
         "descricao": "Refrigerante 2L",
-        "sabor": ["Uva","Laranja", "Guaraná"],
+        "sabor": ["Laranja", "Guaraná"],
         "status": true
     },
     {
@@ -38,7 +38,7 @@
         "imagem": "images/juice.png",
         "preco": "2.50",
         "descricao": "300ML de suco natural",
-        "sabor": ["Maracujá","Goiaba", "Tamarindo"],
+        "sabor": ["Maracujá"],
         "status": true
     }
 ]
