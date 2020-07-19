@@ -16,14 +16,6 @@
         "status": true
     },
     {
-        "id": "2",
-        "nome": "Hambúrguer",
-        "imagem": "images/burguer.png",
-        "preco": "5.00",
-        "descricao": "1 hambúrguer de frango, queijo, alface, tomate, batata palha e milho verde",
-        "status": true
-    },
-    {
         "id": "3",
         "nome": "Refrigerante",
         "imagem": "images/soda.png",
